@@ -1,4 +1,4 @@
-FROM karalabe/xgo-1.7.x
+FROM karalabe/xgo-1.8.x
 
 RUN apt-get update -y
 RUN apt-get upgrade -y
